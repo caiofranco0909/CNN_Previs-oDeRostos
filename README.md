@@ -1,5 +1,5 @@
 # CNN para Previsão de Rostos
-Projeto Referente à Unidade 10 da Trilha de Ciência de Dados do ResTIC36, Grupo 2.
+Projeto Referente à Unidade 10 da Trilha de Ciência de Dados do ResTIC36.
 
 ## Objetivo do Projeto
 Este projeto busca classificar imagens faciais como sendo de rostos masculinos ou femininos utilizando redes neurais convolucionais (CNNs). A abordagem inclui a aplicação de diferentes métodos de pré-processamento de imagens, como conversão para preto e branco e data augmentation, além de ajustes de hiperparâmetros com ferramentas especializadas. O objetivo principal é avaliar a eficácia das técnicas aplicadas e compreender como diferentes preprocessamentos afetam o desempenho do modelo, medido através de métricas como Acurácia, F1-Score e AUC-ROC.
